@@ -7,7 +7,7 @@ st.set_page_config(page_title="テニス抽選アプリ", page_icon="🎾", layo
 
 st.title("🎾 テニス抽選")
 st.write("created by t.yoshida")
-st.write("子のアプリは予告なく終了する場合があります。")
+st.write("このアプリは予告なく終了する場合があります。")
 
 # --- 1. 入力エリア ---
 col1, col2 = st.columns(2)
